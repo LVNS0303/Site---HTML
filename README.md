@@ -9,7 +9,6 @@ Site estático, para estudo e desenvolvimento de conceitos de desenvolvimento fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>  
----
 
 ### Demonstração
 <img width="1901" height="877" alt="image" src="https://github.com/user-attachments/assets/f5116115-5ab4-4351-9784-d0ceab1bca6b" />
