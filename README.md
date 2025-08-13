@@ -1,4 +1,4 @@
-<img width="1899" height="756" alt="image" src="https://github.com/user-attachments/assets/7ad7eaee-0594-4871-8d75-fd7f8c0f1588" />#SITE ESTÁTICO
+#SITE ESTÁTICO
 ---
 ### 🗒 CONTEXTO
 Site estático, para estudo e desenvolvimento de conceitos de desenvolvimento front-end.
