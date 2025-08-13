@@ -1,4 +1,4 @@
-#SITE ESTÁTICO
+SITE ESTÁTICO
 ---
 ### 🗒 CONTEXTO
 Site estático, para estudo e desenvolvimento de conceitos de desenvolvimento front-end.
